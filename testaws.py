@@ -1,4 +1,13 @@
 #!/usr/bin/python
+
+#
+# Program: To get the stats of running instance in AWS region>
+#
+# Author: Roshan Bhave < roshan dot bhave at gmail dot com> 
+#
+# Current Version: 1.0
+#
+
 import boto
 import boto.ec2
 
