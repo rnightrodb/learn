@@ -3,8 +3,7 @@
 #
 # Program: To get the stats of running instance in AWS region>
 #
-# Author: Roshan Bhave < roshan dot bhave at gmail dot com> 
-#
+# Author:RB
 # Current Version: 1.0
 #
 
